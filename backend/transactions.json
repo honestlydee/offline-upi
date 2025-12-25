@@ -1,0 +1,10 @@
+[
+    {
+        "tx_id": "76e480a3-9aaf-4b0a-ab24-c2e7d7ad8799",
+        "payer_id": "05745b207c203cf95a21cf521006c9d34bb59883ed67b03106bd8cd8785addb1",
+        "merchant_id": "d0a9644daa87cb55049fcb4c6048cca87e32605ec68efc3a204751ebb0c1c54d",
+        "amount": 100,
+        "timestamp": 1766675452,
+        "status": "SETTLED"
+    }
+]
