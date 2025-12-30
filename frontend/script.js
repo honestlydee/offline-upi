@@ -1,4 +1,4 @@
-const API = "http://127.0.0.1:5000";
+const API = "https://offline-upi-backend-q3ss.onrender.com/";
 
 async function createPayment() {
     const amount = document.getElementById("amount").value;
